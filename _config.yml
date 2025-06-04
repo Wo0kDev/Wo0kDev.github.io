@@ -326,3 +326,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+header:
+  navigation: main
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "main"
