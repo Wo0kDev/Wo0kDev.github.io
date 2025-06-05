@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Wo0k's Blog" # site title that appears in the masthead and browser tab
-title_prefix             : "04년생 개발자" # site title prefix that appears in the masthead, e.g. "Wo0k's"
+title                    : "정다운의 마약 팔이" # site title that appears in the masthead and browser tab
+title_prefix             : "대마, 양귀비 등 마약 다룹니다." # site title prefix that appears in the masthead, e.g. "Wo0k's"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Wo0k"
-description              : "주니어 개발자 성장기."
+name                     : "CEO 정다운"
+description              : "약대 출신"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,12 +114,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "swan"
+  name             : "정다운"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "주니어 개발자 성장기"
-  location         : "deajeon, South Korea"
+  bio              : "마약 팔이"
+  location         : "jeonju, South Korea"
   url              : # "https://your-website.com"
-  email            : "dev.white.swan@gmail.com"
+  #email            : "dev.white.swan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
